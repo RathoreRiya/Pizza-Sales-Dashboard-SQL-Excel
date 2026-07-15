@@ -104,8 +104,7 @@ SQL was used to analyze and validate business metrics such as:
 
 ## 📷 Dashboard Preview
 
-*(Dashboard screenshot is available in the Image folder.)*
-
+![Pizza Sales Dashboard](Pizza-Sales-Dashboard-SQL-Excel/Image/Dashboard.png)
 ---
 
 ## 🚀 Author
